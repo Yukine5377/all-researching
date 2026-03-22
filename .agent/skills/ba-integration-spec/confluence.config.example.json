@@ -1,0 +1,9 @@
+{
+  "confluence": {
+    "url": "https://your-company.atlassian.net/wiki",
+    "space_key": "PROJ",
+    "username": "your-email@company.com",
+    "api_token": "your-confluence-api-token",
+    "parent_id": ""
+  }
+}
