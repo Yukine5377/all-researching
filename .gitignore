@@ -1,4 +1,8 @@
 node_modules/
+
+# MCP servers often contain API keys — keep local only
+.cursor/mcp.json
+
 .env
 .env.*
 !.env.example
