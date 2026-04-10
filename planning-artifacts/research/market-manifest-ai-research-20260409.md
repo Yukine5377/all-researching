@@ -323,28 +323,41 @@ Chưa có ứng dụng nào kết hợp đồng thời:
 
 ## 6. Đánh giá quy mô thị trường (Market Sizing)
 
-### 6.1 Total Addressable Market (TAM)
+### 6.1 Total Addressable Market (TAM) — Global
 
-| Thị trường | Quy mô | Dự báo |
+| Thị trường | Quy mô 2024-2025 | Dự báo |
 |-----------|--------|--------|
-| Spiritual Wellness Apps (toàn cầu) | $2,16 tỷ (2024) | $7,31 tỷ (2033) |
-| Self-Improvement Apps (toàn cầu) | $48,4 tỷ (2024) | — |
-| Health & Wellness Apps APAC | $10,3 tỷ (2025) | $26,5 tỷ (2032) |
+| Spiritual Wellness Apps (toàn cầu) | $2,16 tỷ (2024) | $7,31 tỷ (2033), CAGR 14,6% |
+| Self-Improvement Apps (toàn cầu) | $46,1 tỷ (2025) | $90,9 tỷ (2034), CAGR 8% |
+| AI Mental Health Apps (toàn cầu) | $1,27 tỷ (2023) | $8,47 tỷ (2032), CAGR 23,6% |
+| Health & Wellness Apps (toàn cầu) | $11,27 tỷ (2024) | ~$25 tỷ (2030), CAGR 14,9% |
 
-### 6.2 Serviceable Addressable Market (SAM) — Việt Nam
+**TAM tổng hợp:** Phân khúc cần tính là giao điểm giữa Self-Improvement App và AI-powered Wellness — ước tính **$3–5 tỷ USD** toàn cầu.
 
-- Người dùng internet Việt Nam: ~78 triệu
-- Gen Z + Millennials (18-30): ~25 triệu
-- Quan tâm tâm linh/self-help (ước tính 20-30%): **5-7,5 triệu người**
-- Tiềm năng phân khúc Spiritual/Manifestation: **$500.000 – $1 triệu** trong 2-3 năm đầu
+### 6.2 Serviceable Addressable Market (SAM) — Global
+
+App target toàn cầu ngay từ đầu, đa ngôn ngữ Việt-Anh. SAM dựa trên thị trường có thể tiếp cận:
+
+| Khu vực | Dân số mục tiêu (18-35) | Tỷ lệ quan tâm self-help | Người dùng tiềm năng |
+|----------|----------------------|--------------------------|------------------------|
+| Việt Nam | ~25 triệu | 20-30% | 5–7,5 triệu |
+| Đông Nam Á (exc. VN) | ~120 triệu | 15-20% | 18–24 triệu |
+| Anh/Mỹ/ÚC (tiếng Anh) | ~200 triệu | 25-35% | 50–70 triệu |
+| **Tổng SAM** | | | **~73–100 triệu người** |
+
+**Quy mô SAM theo doanh thu:** Nếu ARPU trung bình $5-10 (one-time purchase), SAM ~**$365M–$1B**.
 
 ### 6.3 Serviceable Obtainable Market (SOM)
 
-| Năm | Mục tiêu | Doanh thu ước tính |
-|------|----------|-------------------|
-| Năm 1 | 50.000-100.000 lượt tải, 5-10% chuyển đổi premium | 1-3 tỷ VND (~$40K-$120K) |
-| Năm 2 | 200.000-500.000 người dùng, mở rộng ĐNA | 5-15 tỷ VND |
-| Năm 3 | Mở rộng Thailand, Indonesia | 20-50 tỷ VND |
+Dựa trên khả năng thực thành của team nhỏ, one-time purchase model, chạy paid ads:
+
+| Giai đoạn | Mục tiêu downloads | Conversion free → paid | Doanh thu ước tính |
+|-----------|---------------------|------------------------|---------------------|
+| **Phase 1** (0–6 th.) | 10.000–50.000 (global) | 5–10% | $X × 500–5.000 users |
+| **Phase 2** (6–18 th.) | 50.000–200.000 | 8–12% | Scale theo CAC/ROAS |
+| **Phase 3** (18–36 th.) | 200.000+ | 10–15% | Số cụ thể sau khi xác định giá one-time |
+
+> **Lưu ý:** Doanh thu cụ thể phụ thuộc vào giá one-time purchase (TBD). Cần A/B test giá $4.99, $9.99, $14.99 sau MVP launch để tìm được sweet spot cho global market.
 
 ---
 
